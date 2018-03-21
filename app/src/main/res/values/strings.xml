@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3MGBatteryFN</string>
+    <string name="setting_switch">settingswitch</string>
+    <string name="battery_full">Battery Full! Please unplug the cable.</string>
+    <string name="switch_on_the_battery_full_notification">Switch on the battery full notification</string>
+    <string name="rad">audio</string>
+</resources>
